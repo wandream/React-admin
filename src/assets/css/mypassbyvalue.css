@@ -1,0 +1,17 @@
+.child {
+  width: 400px;
+  height: 200px;
+  border: 1px solid black;
+}
+
+.parents {
+  width: 800px;
+  height: 400px;
+  border: 1px solid red;
+}
+
+.grandson {
+  width: 200px;
+  height: 100px;
+  border: 1px solid yellowgreen;
+}
